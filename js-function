@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<button onclick = "MyClick() My Button">
+</button>
+
+<script>
+function MyClick()
+{
+
+alert("Button clicked");
+}
+</body>
+</html>
